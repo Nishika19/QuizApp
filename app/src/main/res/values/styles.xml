@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="true_button">
+        <item name="android:layout_height">55dp</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:layout_marginTop">24dp</item>
+        <item name="android:padding">6dp</item>
+        <item name="android:textColor">#00695C</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="main">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">6dp</item>
+        <item name="android:textColor">#CAC6C6</item>
+        <item name="android:textSize">26sp</item>
+    </style>
+</resources>

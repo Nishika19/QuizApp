@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="heading_textview">Trivia</string>
+    <string name="question_no_textview">Question: 19/38</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="question_textview">Questions</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect!</string>
+    <string name="current_textview">Current Score: 0</string>
+    <string name="highest_score_textview">Highest Score: 0</string>
+    <string name="save_button">save</string>
+    <string name="clear_button">restart</string>
+    <string name="submit_button">submit</string>
+    <string name="incorrect_answer_textview">Incorrect</string>
+    <string name="correct_textview">Correct</string>
+    <string name="share_button">share</string>
+</resources>
